@@ -15,7 +15,7 @@ public class hw_3 {
 
     public static void outputData(String formula) {
 
-        List<Integer> questionSingIndex = new ArrayList(); // ---- создаем пустой динамический массив индек вопросв ---
+        List<Integer> questionSingIndex = new ArrayList<>(); // ---- создаем пустой динамический массив индек вопросв ---
         char[] charArray = formula.replace(" ", "").toCharArray();
         for (int i = 0; i < charArray.length; i++) {
             if (charArray[i] == '+' || charArray[i] == '=') {
