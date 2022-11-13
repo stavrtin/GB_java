@@ -45,8 +45,6 @@ public class task20 {
                     default: stack.pop();
                 }
 
-//        System.out.println(stack);
-
         }
 
         if (!stack.isEmpty()) return false;
