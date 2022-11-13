@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class task20 {
     public static void main(String[] args) {
-        System.out.println("Задача 20");
+        System.out.println("Задача 20 ");
         String s = "(([])){}";
         System.out.println(s);
         System.out.println(isValid(s));

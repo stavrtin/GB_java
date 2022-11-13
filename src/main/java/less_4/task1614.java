@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class task1614 {
     public static void main(String[] args) {
-        System.out.println("Задача 1614 макс глубина скобок");
+        System.out.println("Задача 1614 макс глубина скобок ");
         String s = "(1+(2*3)+((8)/4))+1";
 //        String s = "()";
         System.out.println(maxDepth(s));

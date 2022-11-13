@@ -7,7 +7,7 @@ public class task232 {
     private Stack<Integer> stacklOut = new Stack<>();
 
     public static void main(String[] args) {
-        System.out.println("Задача 232 - очередь с помощью 2х стеков");
+        System.out.println("Задача 232 - очередь с помощью 2х стеков ");
 
 //        System.out.println(push(2));
     }
